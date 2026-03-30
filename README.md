@@ -2,8 +2,12 @@
 
 Welcome to my GitHub profile! 🌟
 
+I am currently pursuing a master's degree and will graduate in June 2026.
+
+I currently work at Humanify, Hangzhou.
+
 ## Connect with me
-- [X](https://x.com/)
+- [X]([https://x.com/](https://x.com/siweitu))
 
 ## Skills
 
